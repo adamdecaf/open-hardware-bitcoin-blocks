@@ -1,4 +1,4 @@
-# open-source-bitcoin-blocks
+# open-hardware-bitcoin-blocks
 
 A list of Bitcoin blocks mined from bedrooms, offices, garages with open source hardware you can build and trust.
 
@@ -21,11 +21,11 @@ There is a JSON file `blocks.json` for download. The file is an array of JSON ob
 
 ## History
 
-The [bitaxe](https://bitaxe.org/) project restarted open-source bitcoin mining by leveraging existing ASIC chips with
+The [bitaxe](https://bitaxe.org/) project restarted open hardware bitcoin mining by leveraging existing ASIC chips with
 fully open source mining firmware and control. To further that effort the [256 Foundation](https://github.com/256foundation)
-has hosted Telehashs to raise funds to sponsor open source developers. [OpenSats](https://opensats.org/blog/open-hardware-for-open-money)
-has sponsored open projects and developers across the world. Those sponsorships have fostered multiple projects to reestablish open source
-as the future of bitcoin mining.
+has hosted Telehashs to raise funds to sponsor open software/hardware developers. [OpenSats](https://opensats.org/blog/open-hardware-for-open-money)
+has sponsored open projects and developers across the world. Those sponsorships have fostered multiple projects to
+reestablish open software and hardware as the future of bitcoin mining.
 
 ## Projects using this data
 
