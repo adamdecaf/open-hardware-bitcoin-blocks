@@ -60,5 +60,13 @@
     "link": "https://mempool.space/block/0000000000000000000187fb7ba74cbf834b0258890ae289e50b09dd4167b098",
     "miner": "nerdqaxe++",
     "details": "Second Parasite Pool block."
+  },
+  {
+    "height": 948146,
+    "timestamp": 1778059715,
+    "hash": "000000000000000000018a4288653582d065a580c89f91c51045d8b648b38a39",
+    "link": "https://mempool.space/block/000000000000000000018a4288653582d065a580c89f91c51045d8b648b38a39",
+    "miner": "Avalon Q",
+    "details": "Self hosted Public Pool. Two solo blocked mined by one operator. https://x.com/SoloSatoshi/status/2052489640137887751"
   }
 ]
