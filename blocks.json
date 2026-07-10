@@ -60,5 +60,13 @@
     "link": "https://mempool.space/block/0000000000000000000187fb7ba74cbf834b0258890ae289e50b09dd4167b098",
     "miner": "nerdqaxe++",
     "details": "Second Parasite Pool block."
+  },
+  {
+    "height": 957382,
+    "timestamp": 1783654234,
+    "hash": "00000000000000000000f4f8c91a6c400c42a40577fafa2ca2231d78f1955424",
+    "link": "https://mempool.space/block/00000000000000000000f4f8c91a6c400c42a40577fafa2ca2231d78f1955424",
+    "miner": "bitaxe",
+    "details": "Second block on hosted public pool."
   }
 ]
